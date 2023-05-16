@@ -1,2 +1,2 @@
-# aspirantes-mir-javascript-npm-install-nuevo
-ejercicios js
+# aspirantes-mir-javascript
+ejercicios Make It Real
